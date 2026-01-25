@@ -11,3 +11,6 @@ and maintain consistent shell behavior across machines.
 
 # Example
 <img width="818" height="517" alt="Screenshot 2026-01-25 at 10 56 34 PM" src="https://github.com/user-attachments/assets/b0183be8-ee3a-4a2e-aa57-8d3e5bcdda61" />
+
+
+<img width="846" height="581" alt="Screenshot 2026-01-26 at 12 07 08 AM" src="https://github.com/user-attachments/assets/68b9228e-6520-433e-ae59-f86f42fd53f1" />
