@@ -100,8 +100,8 @@ neofetch() {
     "${CYAN}CPU:${RESET}       $CPU"
     "           $CPU_BAR"
     "${CYAN}Memory:${RESET}    ${MEM_USED}MB / ${MEM_TOTAL}GB"
-    "            $MEM_BAR"
-    )
+    "           $MEM_BAR"
+)
     
     # https://www.reddit.com/r/WidescreenWallpaper/comments/15xoqxl/apple_logo_ascii_art_3440x1440/#lightbox
     logo=(
@@ -117,8 +117,8 @@ neofetch() {
     "${RED}:MMMMMMMMMMMMMMMMMMMMMMMM:         "
     "${RED}.MMMMMMMMMMMMMMMMMMMMMMMMX.        "
     "${RED} kMMMMMMMMMMMMMMMMMMMMMMMMWd.      "
-    "${MAGENTA} .XMMMMMMMMMMMMMMMMMMMMMMMMMMk    "
-    "${MAGENTA}  .XMMMMMMMMMMMMMMMMMMMMMMMMK.    "
+    "${MAGENTA} .XMMMMMMMMMMMMMMMMMMMMMMMMMMk     "
+    "${MAGENTA}  .XMMMMMMMMMMMMMMMMMMMMMMMMK.     "
     "${BLUE}   kMMMMMMMMMMMMMMMMMMMMMMd        "
     "${BLUE}    KMMMMMMMWXXWMMMMMMMk.          "
     "${BLUE}      .COOC,.  .,COO:.             ${RESET}"
