@@ -110,7 +110,7 @@ neofetch() {
     "${GREEN}              .OMMMMo              "
     "${GREEN}              OMMM0,               "
     "${GREEN}    .;loddo:' loolloddol;.         "
-    "${YELLOW}  cKMMMMMMMMMMNWMMMMMMMMMM0:       "
+    "${YELLOW}  cKMMMMMMMMMMNWMMMMMMMMMMM0:       "
     "${RED} .KMMMMMMMMMMMMMMMMMMMMMMMWd.      "
     "${RED} XMMMMMMMMMMMMMMMMMMMMMMMX.        "
     "${RED};MMMMMMMMMMMMMMMMMMMMMMMM:         "
@@ -120,7 +120,7 @@ neofetch() {
     "${MAGENTA} .XMMMMMMMMMMMMMMMMMMMMMMMMMMk     "
     "${MAGENTA}  .XMMMMMMMMMMMMMMMMMMMMMMMMK.     "
     "${BLUE}   kMMMMMMMMMMMMMMMMMMMMMMd        "
-    "${BLUE}    KMMMMMMMWXXWMMMMMMMk.          "
+    "${BLUE}    KMMMMMMMWXXWMMMMMMMMk.         "
     "${BLUE}      .cooc,.  .,coo:.             ${RESET}"
     )
     
