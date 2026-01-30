@@ -105,7 +105,7 @@ neofetch() {
     
     # https://www.reddit.com/r/WidescreenWallpaper/comments/15xoqxl/apple_logo_ascii_art_3440x1440/#lightbox
     logo=(
-    "${GREEN}                   'C.             "
+    "${GREEN}                   'c.             "
     "${GREEN}                ,xNMM.             "
     "${GREEN}              .OMMMMo              "
     "${GREEN}              OMMM0,               "
@@ -121,7 +121,7 @@ neofetch() {
     "${MAGENTA}  .XMMMMMMMMMMMMMMMMMMMMMMMMK.     "
     "${BLUE}   kMMMMMMMMMMMMMMMMMMMMMMd        "
     "${BLUE}    KMMMMMMMWXXWMMMMMMMk.          "
-    "${BLUE}      .COOC,.  .,COO:.             ${RESET}"
+    "${BLUE}      .cooc,.  .,coo:.             ${RESET}"
     )
     
     # Print side-by-side
